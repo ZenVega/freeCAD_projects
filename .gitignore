@@ -1,1 +1,2 @@
 **/*.stl
+!print_files/*.stl
